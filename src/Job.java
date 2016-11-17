@@ -1,6 +1,4 @@
-/**
- * Created by donalmaher on 16/11/2016.
- */
+
 public class Job {
 
     private String position;
@@ -12,6 +10,7 @@ public class Job {
     }
 
     public int getRange() {
+
         return range;
     }
 
@@ -24,6 +23,7 @@ public class Job {
     }
 
     public void setPosition(String position) {
+
         this.position = position;
     }
 }
